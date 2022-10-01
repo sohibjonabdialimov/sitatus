@@ -1,0 +1,35 @@
+body{
+    background-image:url("./background-img.jfif");
+}
+.container{
+    text-align: center; 
+    padding: 5px;
+    border: 10px solid black;
+    border-radius: 20px;
+    width: 50%;
+    background-color:azure;
+    margin: 270px auto;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.tag{
+    text-align: end;
+}
+.telegram{
+    width: 15px;
+}
+
+.tiktok{
+    width: 15px;
+}
+.instagram{
+    width: 15px;
+}
+.google{
+    width: 15px;
+}
+a{
+    text-decoration: none;
+}
